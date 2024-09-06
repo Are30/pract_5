@@ -1,0 +1,29 @@
+table {
+    width: auto;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+  }
+  
+  th {
+    background-color: #07539e; /* Azul oscuro */
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+  }
+  
+  td {
+    background-color: #85cbf3; /* Amarillo claro */
+    padding: 10px;
+    border: 1px solid black;
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 24px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
